@@ -25,7 +25,7 @@ b = int(input("enter another operand "))
 if  op == '+':
 	add(a,b)
 elif op == '-':
-	subtracr(a,b)
+	subtract(a,b)
 elif op == '*':
 	mul(a,b)
 elif op == '/':
